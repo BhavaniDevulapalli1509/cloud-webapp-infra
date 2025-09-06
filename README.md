@@ -1,20 +1,20 @@
 # cloud-webapp-infra
 
-Cloud Web Application with Infrastructure as Code
+**Cloud Web Application with Infrastructure as Code**
 
 This repository contains a cloud-native web application along with its supporting infrastructure. The project is designed using microservices, containerization, and Infrastructure as Code (IaC) principles to enable scalability, high availability, and secure deployments on cloud platforms such as AWS.
 
-🚀 Project Overview
+🚀 **Project Overview**
 
-Web Application: A Node.js-based RESTful API with CI/CD workflows, automated builds, and containerized deployment.
+**Web Application**: A Node.js-based RESTful API with CI/CD workflows, automated builds, and containerized deployment.
 
-Infrastructure as Code: Provisioning and management of AWS cloud resources using Terraform and Packer.
+**Infrastructure as Code**: Provisioning and management of AWS cloud resources using Terraform and Packer.
 
-CI/CD: GitHub Actions workflows for testing, building, and deploying both infrastructure and application.
+**CI/CD**: GitHub Actions workflows for testing, building, and deploying both infrastructure and application.
 
 
-🛠️ Components
-Web Application
+🛠️ **Components**
+**Web Application**
 
 Built with Node.js + Express.js
 
